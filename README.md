@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mital vyas
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning BCA course
-- 💞️ I’m looking to collaborate with other problem solving and help together..
+- 💞️ I’m looking to collaborate with other's problem solving and help together..
 - 😄 👉mitalvyas23👈
   
 
